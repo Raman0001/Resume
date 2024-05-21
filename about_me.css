@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#about{
+    height: 100vh;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    background-color: rgb(49, 49, 49);
+    align-items:center;
+}
+#image{
+    height: 80vh;
+    width: 30%;
+    padding: 20px;
+    background-image: url("B612_20230122_121149_996.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10%;
+}
+#data{
+    height: 80vh;
+    width: 60%;
+    margin: 40px;
+    padding: 20px;
+    color:#fff;
+    background-color: darkgray;
+    border-radius: 20px;    
+}
